@@ -70,13 +70,17 @@ section {
     color: #ffffff;
     background-color: #0072bb;
 }
-
-.float-left {
+#search_engine img  {
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+#social_media img  {
+    float: left;
+    margin-right: 25px;
+}
+
+#online_rep img {
     float: right;
     margin-left: 25px;
 }
