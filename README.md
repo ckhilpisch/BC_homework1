@@ -15,6 +15,14 @@ The final problem I had with this homework was that the folder file was too larg
 Here is the link for that original homework. 
 [1]: github.com/ckhilpisch/bootcamp_homework1/commits/main
 This is just a way you can track my commits and see the progress I made sequencially.
-For reference for this assigment I used w3schools.com as a resource.    
+For reference for this assigment I used w3schools.com as a resource. 
+I've included photos of the side by side code.   My refactored code is on the left, with the original code on the right.  It is just some snippets to give some insight into the differences. 
+![css_1](Screenshot/CSS_1.png)
+![css_2](Screenshot/CSS_2.png)
+![html_1](Screenshot/HTML_1.png)
+
+## Here is a link to the deployed site  https://ckhilpisch.github.io/BC_homework1/
+
+
 
 
