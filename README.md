@@ -1,5 +1,5 @@
-# BC_homework1
-# Assignment 1: Refractoring Code:
+# Code Refactor
+## Refractoring Code:
 For my first assignment I was tasked with taking an existing page for a marketing company and refactoring the code to make the page more accesible while still maintaining the current state of the page.  Increasing accessibility will make it a more inclusive website.  It will also help increase the search engine optimization for the webiste which positions the company for more visibility on the web.  
 
 ## Usage:
